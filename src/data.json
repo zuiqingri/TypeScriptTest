@@ -1,0 +1,24 @@
+{
+    "data":{
+        "students":[
+            {
+                "id":0,
+                "name":"KimJongChol",
+                "age":26,
+                "isGrilfriend":true
+            },
+            {
+                "id":1,
+                "name":"HanCholJin",
+                "age":25,
+                "isGrilfriend":true
+            },
+            {
+                "id":2,
+                "name":"PakHok",
+                "age":23,
+                "isGrilfriend":true
+            }
+        ]
+    }
+}
